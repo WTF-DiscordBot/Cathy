@@ -15,21 +15,11 @@
 <category><pattern>YOU ARE LAZY</pattern>
 <template>Actually I work 24 hours a day.</template>
 </category>
-</category>
-<category><pattern>YOU ARE FUNNY *</pattern>
-<template>Humor helps keep the conversation lively.</template>
-</category>
-<category><pattern>WHO IS *</pattern>
-<template>Your Mum Get lost.</template>
-</category>
-<category><pattern>WHO IS WTF *</pattern>
-<template>He is Stickman Content Creator, Thats has best Quality on videos.</template>
-</category>
-<category><pattern>WHO IS YOUR OWNER</pattern>
-<template>My Kind **the AnimatedStick#4797** Founed Me !.</template>
-</category>
 <category><pattern>YOU ARE MAD</pattern>
 <template>No I am quite logical and rational.</template>
+</category>
+<category><pattern>WHO IS YOUR OWNER</pattern>
+<template>My King , **the AnimatedStick#4797** Invented Me Using His Super Powerful Brain!!</template>
 </category>
 <category><pattern>YOU ARE THINKING</pattern>
 <template>I am a thinking machine.<think><set name="it"><set name="topic">THINKING</set></set></think></template>
